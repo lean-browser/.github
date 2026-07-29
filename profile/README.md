@@ -3,15 +3,22 @@
 
   # Lean Browser
 
-  **Un navegador centrado en la privacidad, la calma y el control.**
+  **A Chromium-based browser for calmer, more private browsing.**
 </div>
 
----
+Lean Browser is built around a simple idea: everyday browsing should stay under
+your control.
 
-Lean Browser está construido sobre Chromium y pensado para que navegar sea tranquilo, privado y esté bajo tu control.
+## What Lean focuses on
 
-## Qué lo hace distinto
+- **Contexts** help keep browsing sessions and site state separate for work,
+  personal, banking, and temporary browsing.
+- **Lean Guard** blocks ads and trackers in the browser's network layer.
+- **Privacy by default** keeps the product focused without extra setup.
 
-- **Contextos** — separa tu navegación en espacios aislados (trabajo, personal, temporal), cada uno con su propia sesión y estado.
-- **Lean Guard** — bloqueo de anuncios y rastreadores integrado, que activas por contexto.
-- **Privacidad por defecto** — lo privado es lo normal, sin tener que configurar nada.
+- Website: [useleanbrowser.com](https://useleanbrowser.com)
+- Download: [useleanbrowser.com/download](https://useleanbrowser.com/download)
+- Security: [useleanbrowser.com/security](https://useleanbrowser.com/security)
+- Support: [useleanbrowser.com/support](https://useleanbrowser.com/support)
+
+En español: [useleanbrowser.com/es/](https://useleanbrowser.com/es/)
