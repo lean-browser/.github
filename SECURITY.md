@@ -1,10 +1,5 @@
-# Security policy
+# Fallos de seguridad
 
-Do not open a public issue with vulnerability details.
+Si encuentras un fallo de seguridad en Lean, repórtalo en privado desde [este formulario](https://github.com/lean-browser/lean/security/advisories/new) antes de hacerlo público. No abras un issue.
 
-Use **Security → Report a vulnerability** when the repository offers private
-vulnerability reporting. If that option is not available, open an issue asking
-for a private reporting channel without including technical details.
-
-Include the affected version, a clear description, reproduction steps, and the
-potential impact when possible.
+Sirve que digas la versión de Lean, qué pasa y cómo se reproduce. Te damos crédito cuando esté arreglado.
